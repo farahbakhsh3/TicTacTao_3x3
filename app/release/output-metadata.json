@@ -1,0 +1,20 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "ir.Farahbakhsh3.TicTacTao_3x3",
+  "variantName": "release",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "versionCode": 12,
+      "versionName": "2.5.AI",
+      "outputFile": "app-release.apk"
+    }
+  ],
+  "elementType": "File"
+}

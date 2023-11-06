@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name"> بازی دوز 3*3 </string>
+    <string name="play_again"> شروع مجدد </string>
+    <string name="winner"> برنده بازی :: </string>
+    <string name="red"> بازیکن قرمز </string>
+    <string name="human"> بازیکن </string>
+    <string name="yellow"> بازیکن زرد </string>
+    <string name="AI"> هوش مصنوعی </string>
+    <string name="draw"> مساوی </string>
+    <string name="reset"> شروع مجدد </string>
+    <string name="one_player"> تک نفره </string>
+    <string name="two_player"> دو نفره </string>
+    <string name="ok"> تایید </string>
+    <string name="play_type"> نوع بازی </string>
+    <string name="play_start"> شروع کننده بازی :: </string>
+    <string name="game_level_beginner">مبتدی</string>
+    <string name="game_level_easy">آسان</string>
+    <string name="game_level_normal">متوسط</string>
+    <string name="game_level_hard">سخت</string>
+    <string name="game_level"> درجه سختی بازی </string>
+    <string name="game_reports">گزارش نتایج</string>
+    <string name="title">برنده</string>
+    <string name="reset_report">ریست گزارش</string>
+    <string name="game_level_title">درجه سختی بازی ::</string>
+    <string name="game_type_title">نوع بازی ::</string>
+</resources>
